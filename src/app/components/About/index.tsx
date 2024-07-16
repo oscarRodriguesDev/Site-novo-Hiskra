@@ -27,23 +27,22 @@ export default function About() {
       <div className="flex flex-col gap-10 xl:flex-row xl:items-center xl:justify-between">
         <article className="w-full xl:w-[45.5rem]">
           <h2 className="text-2xl font-semibold leading-9 text-zinc-50">
-            Estamos moldando o futuro da tecnologia web
+            Estamos moldando o futuro a cada
           </h2>
           <p className="mt-6 leading-8 text-zinc-50">
-            Nós somos uma equipe de estudantes{' '}
+            Você esta preste a embarcar em uma jornada de{' '}
             <span className="text-primary-400">
-              apaixonados pela tecnologia
+              auto descoberta e transformação
             </span>{' '}
-            e dedicados ao desenvolvimento web, abrangendo tanto a Front-end
-            quanto a Back-end. Com o objetivo de{' '}
-            <span className="text-primary-400">fazer a diferença</span> ,
-            combinamos nossos{' '}
+            que vai tranformar todas as suas perspectivas com relação à tecnologia{' '}
+            <span className="text-primary-400">Somos arquitetos digitais</span>,
+            que desafiam o limite do possível{' '}
             <span className="text-primary-400">
-              conhecimentos e habilidades
+              A criativdade é nossa ferramenta principal
             </span>{' '}
-            para promover o{' '}
+            O ciberespaço e nosso campo de batalha{' '}
             <span className="text-primary-400">
-              crescimento pessoal e coletivo
+              Seja bem vindo ao mundo da Hiskra, onde a única constante é a inovação e as oportunidades são ilimitadas
             </span>
             .
           </p>
