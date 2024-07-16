@@ -34,7 +34,7 @@ export default function About() {
             <span className="text-primary-400">
               auto descoberta e transformação
             </span>{' '}
-            que vai tranformar todas as suas perspectivas com relação à tecnologia{' '}
+            que vai tranformar todas as suas perspectivas com relação tecnologia{' '}
             <span className="text-primary-400">Somos arquitetos digitais</span>,
             que desafiam o limite do possível{' '}
             <span className="text-primary-400">
@@ -42,7 +42,8 @@ export default function About() {
             </span>{' '}
             O ciberespaço e nosso campo de batalha{' '}
             <span className="text-primary-400">
-              Seja bem vindo ao mundo da Hiskra, onde a única constante é a inovação e as oportunidades são ilimitadas
+              Seja bem vindo ao mundo da Hiskra, onde a única constante e
+              inovacão e as oportunidades são ilimitadas
             </span>
             .
           </p>
