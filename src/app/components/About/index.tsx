@@ -30,22 +30,20 @@ export default function About() {
             Estamos moldando o futuro a cada
           </h2>
           <p className="mt-6 leading-8 text-zinc-50">
-            Você esta preste a embarcar em uma jornada de{' '}
+            Você está prestes a embarcar em uma jornada de{' '}
             <span className="text-primary-400">
               auto descoberta e transformação
             </span>{' '}
-            que vai tranformar todas as suas perspectivas com relação tecnologia{' '}
+            que vai transformar todas as suas perspectivas com relação à tecnologia.{' '}
             <span className="text-primary-400">Somos arquitetos digitais</span>,
-            que desafiam o limite do possível{' '}
+            que desafiam o limite do possível.{' '}
             <span className="text-primary-400">
-              A criativdade é nossa ferramenta principal
-            </span>{' '}
-            O ciberespaço e nosso campo de batalha{' '}
+              A criatividade é nossa ferramenta principal
+            </span>. O ciberespaço é nosso campo de batalha.{' '}
             <span className="text-primary-400">
-              Seja bem vindo ao mundo da Hiskra, onde a única constante e
-              inovacão e as oportunidades são ilimitadas
-            </span>
-            .
+              Seja bem-vindo ao mundo da Hiskra, onde a única constante é
+              inovação e as oportunidades são ilimitadas
+            </span>.
           </p>
           <Image
             width={688}
@@ -63,19 +61,13 @@ export default function About() {
                 </figure>
               </div>
               <p className="mt-5 leading-8 transition-all duration-500 ease-out">
-                Nossa missão é criar um{' '}
-                <span className="text-primary-400">espaço colaborativo</span>{' '}
-                que permita a cada membro do grupo{' '}
+                Nossa missão é desenvolver{' '}
+                <span className="text-primary-400">soluções tecnológicas inovadoras</span>{' '}
+                que simplifiquem o cotidiano das pessoas. Criamos sites, sistemas e aplicativos web e mobile de alta qualidade, além de oferecer consultoria em adequação à LGPD, criação de logos e identidades visuais, e serviços de registro de marca e patentes. Buscamos{' '}
                 <span className="text-primary-400">
-                  aprender, crescer e compartilhar experiências
+                  solucionar problemas que impedem o avanço
                 </span>{' '}
-                no mundo do desenvolvimento web. Unindo nossas habilidades e
-                conhecimentos, buscamos{' '}
-                <span className="text-primary-400">
-                  superar os desafios e impulsionar o potencial
-                </span>{' '}
-                de cada indivíduo, promovendo o desenvolvimento pessoal e
-                coletivo.
+                de nossos clientes, contribuindo para um mundo mais conectado e eficiente.
               </p>
             </article>
             <article className="rounded border border-primary-400 pt-4 text-zinc-50 transition-all duration-500 ease-out sm:border-none">
@@ -86,18 +78,7 @@ export default function About() {
                 </figure>
               </div>
               <p className="mt-5 leading-8 transition-all duration-500 ease-out">
-                Somos um grupo{' '}
-                <span className="text-primary-400">
-                  voluntário sem fins lucrativos
-                </span>
-                , buscando projetos impactantes na sociedade, valorizando
-                soluções inovadoras e inclusivas. Unindo apaixonados pelo
-                desenvolvimento web, incentivamos a troca de conhecimento e
-                trabalho em equipe para um{' '}
-                <span className="text-primary-400">
-                  futuro digital promissor
-                </span>
-                . Junte-se a nós e cresça pessoal e profissionalmente.
+                Ser reconhecida como a principal fonte geradora de inovação e tecnologia no Brasil, sendo referência nacional e internacional no setor. Almejamos transformar a maneira como as pessoas implementam tecnologia, criando produtos únicos e impactantes que posicionem nossa empresa como líder no mercado, semelhante à Microsoft.
               </p>
             </article>
           </div>
@@ -109,17 +90,10 @@ export default function About() {
               </figure>
             </div>
             <p className="mt-5 leading-8 transition-all duration-500 ease-out">
-              Somos movidos pela paixão pela tecnologia, comprometidos com a
-              colaboração, o aprendizado contínuo e o impacto positivo na
-              comunidade. Valorizamos a{' '}
-              <span className="text-primary-400">
-                inovação, a acessibilidade e a inclusão
-              </span>
-              , mantendo um{' '}
-              <span className="text-primary-400">
-                ambiente acolhedor, respeitoso e colaborativo
-              </span>{' '}
-              para todos os membros.
+              1. Acreditamos que qualquer pessoa pode lidar com tecnologia desde que seja utilizada da forma correta 
+              2. Esperamos que nossos colaboradores se sintam valorizados dentro de nossa organização de forma que esse sentimento se expanda a nossos clientes e parceiros.<br/>
+              3. Nossas qualidades são persistência, inovação e busca de novidades.<br/>
+              4. Acreditamos que o mundo pode ser um lugar melhor se aliado à tecnologia.
             </p>
           </article>
         </article>
