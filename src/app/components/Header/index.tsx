@@ -21,6 +21,7 @@ const Header = () => {
             alt="logo"
             className="h-full w-full object-cover p-1"
           />
+       <span className='text-white'>HISKRA</span>
         </figure>
       </Link>
 

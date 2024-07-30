@@ -1,39 +1,38 @@
 export const FAQSessionsMock = [
   {
     id: 1,
-    question: 'Como posso me inscrever?',
+    question: 'O que é a Hiskra e quais serviços vocês oferecem?',
     content:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus minima ex sit fugiat. Sit aliquam minima ad similique quae obcaecati sunt, delectus eos excepturi mollitia ducimus ex at quam laudantium. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi.  adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi. Error',
+      'A Hiskra é uma empresa especializada em soluções tecnológicas inovadoras. Oferecemos serviços como criação de sites, sistemas, aplicativos web e mobile, consultoria em LGPD, criação de logos e identidades visuais, e registro de marca e patentes.',
   },
   {
     id: 2,
-    question: 'Quais tecnologias utilizamos?',
+    question: 'Como posso entrar em contato com a Hiskra para discutir um projeto?',
     content:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus minima ex sit fugiat. Sit aliquam minima ad similique quae obcaecati sunt, delectus eos excepturi mollitia ducimus ex at quam laudantium. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi.  adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi. Error',
+      'Você pode entrar em contato conosco através do nosso formulário de contato no site, por e-mail, ou telefone. Nossa equipe está pronta para ajudar a esclarecer suas dúvidas e discutir seu projeto em detalhes.',
   },
   {
     id: 3,
-    question: 'Qual é a frequência das reuniões ou encontros do grupo?',
+    question: 'Qual é o prazo para concluir um projeto?',
     content:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus minima ex sit fugiat. Sit aliquam minima ad similique quae obcaecati sunt, delectus eos excepturi mollitia ducimus ex at quam laudantium. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi.  adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi. Error',
+      'O prazo para conclusão de um projeto pode variar dependendo da complexidade e do escopo do trabalho. Após uma avaliação inicial, forneceremos um cronograma detalhado com as etapas e o prazo estimado para a entrega.',
   },
   {
     id: 4,
-    question:
-      'É necessário ter experiência prévia em programação para participar?',
+    question: 'Vocês oferecem suporte após a entrega do projeto?',
     content:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus minima ex sit fugiat. Sit aliquam minima ad similique quae obcaecati sunt, delectus eos excepturi mollitia ducimus ex at quam laudantium. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi.  adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi. Error',
+      'Sim, oferecemos suporte contínuo após a entrega do projeto. Nossa equipe está disponível para ajudar com qualquer problema técnico ou ajustes necessários. Detalhes sobre o suporte pós-entrega são discutidos e acordados antes do início do projeto.',
   },
   {
     id: 5,
-    question: 'Quais projetos vocês estão trabalhando atualmente?',
+    question: 'Como vocês garantem a segurança e a conformidade com a LGPD?',
     content:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus minima ex sit fugiat. Sit aliquam minima ad similique quae obcaecati sunt, delectus eos excepturi mollitia ducimus ex at quam laudantium. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi.  adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi. Error',
+      'A Hiskra segue rigorosos padrões de segurança e conformidade para garantir que todos os nossos projetos estejam em conformidade com a LGPD. Isso inclui a implementação de práticas de proteção de dados e a realização de auditorias regulares para garantir a conformidade contínua.',
   },
   {
     id: 6,
-    question: 'Vocês aceitam membros de outras cidades?',
+    question: 'Quais são as formas de pagamento aceitas?',
     content:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus minima ex sit fugiat. Sit aliquam minima ad similique quae obcaecati sunt, delectus eos excepturi mollitia ducimus ex at quam laudantium. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi.  adipisicing elit. Quis, ipsam molestiae natus quaerat aut totam voluptates, non explicabo rem fuga, provident nihil magni minima saepe optio animi ex quasi. Error',
+      'Aceitamos várias formas de pagamento, incluindo transferências bancárias, cartões de crédito e pagamentos via plataformas de pagamento online. Os detalhes específicos serão discutidos e acordados durante o processo de contratação do serviço.',
   },
 ]
