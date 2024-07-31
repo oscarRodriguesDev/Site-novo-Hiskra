@@ -25,7 +25,7 @@ const Navbar = ({ openModal }: NavbarTypeProps) => {
         </li>
 
         <li className="m-2 p-2">
-          <RouterLinks href="/blog" text="Blog" />
+        <a className='text-secondary-500 hover:text-white' href="https://hiskrablog.blogspot.com/" target="_blank"> Blog</a>
         </li>
 
         <li className="m-2 p-2">

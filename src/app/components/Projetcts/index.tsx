@@ -1,10 +1,4 @@
 import CardProjects from '../CardProject'
-import emBreve from '@/assets/breve.png'
-import escolaReal from '@/assets/escola-real.png'
-import redeSocial from '@/assets/rede-social.png'
-import CardProjectContainer from '../CardProjectContainer'
-import clinicaVeterinaria from '@/assets/clinica-veterinaria.png'
-import Title from '../Title'
 import { getData } from '@/utils/data'
 import { ProductAndServicesProps } from '@/types'
 
@@ -52,23 +46,17 @@ export default async function Projects() {
         </div>
         <div className="flex flex-wrap justify-center gap-9 p-6 bg-gray-900">
           {produtos.map((item) => (
-            <div
-              className="bg-gray-800 rounded-lg p-4 w-64 text-center shadow-lg transform transition duration-200 hover:scale-105"
-              key={item.link}
-            >
-              <h1 className="text-white text-2xl mb-4">{item.product_name}</h1>
-              <a href={item.link} target='blank'>
-                <img
-                  src={item.product_image.url}
-                  alt={item.description}
-                  className="max-w-full max-h-40 object-contain rounded mb-4"
-                />
-              </a>
-              <p className="text-white text-base">{item.description}</p>
-            </div>
+           <CardProjects
+             key={item.link}
+              image = {item.product_image.imgix_url}
+              link = {item.link}
+              description={item.description}
+              name = {item.product_name}
+
+           />
           ))}
         </div>
-        <div className="hidden w-full h-px md:block bg-zinc-800" />
+        <div className="hidden w-full h-px md:block bg-zinc-800" /> 
       </div>
     </div>
   );

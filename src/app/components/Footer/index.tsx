@@ -32,7 +32,7 @@ const Footer = () => {
                 },
                 {
                   name: 'Blog',
-                  href: '/blog',
+                  href: 'https://bloghiskra.blogspot.com/',
                 },
                 {
                   name: 'Projetos',
@@ -85,18 +85,18 @@ const Footer = () => {
         <FooterSocialLinks
           socialMedia={[
             {
-              social_name: '+55 (11) 94700-7927',
-              href: '#',
+              social_name: '+55 279889911663',
+              href: 'https://w.app/hiskra',
               icon: MdWhatsapp,
             },
             {
-              social_name: 'emailaddress@mail.com',
+              social_name: 'adm@hiskra.com.br',
               href: '#',
               icon: MdOutlineMailOutline,
             },
             {
-              social_name: 'linkedin.com/company/juniors-developers-group/',
-              href: 'https://www.linkedin.com/company/juniors-developers-group/mycompany/',
+              social_name: 'Hiskra',
+              href: 'https://www.linkedin.com/company/hiskra/about/',
               icon: SlSocialLinkedin,
             },
           ]}
